@@ -17,7 +17,7 @@
 
 👯 I’m looking to find any meaning in what I'm doing
 
-📝 I will hardly ever post on LinkedIn [![LinkedIn][3.2]][3]
+📝 I will hardly ever post on LinkedIn
 
 👀 Ask me about Segfaults, Stack Smashing and why I moved to Rust
 
