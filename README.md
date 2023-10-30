@@ -70,51 +70,27 @@
 <br>
 
 # GitHub Stats 📈
-<a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/llComodino/llComodino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llComodino&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarda&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
-</a>
-<br><br>
-
-<a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+<a href="https://github.com/llComodino/llComodino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=llComodino&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Como's GitHub Stats" />
 </a>
 <br><br>
 
-<a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarda&theme=dark" alt="Rahul's GitHub Streak Stats"/>
+<a href="https://github.com/llComodino/llComodino">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llComodino&theme=radical&hide_border=true)](https://github.com/llComodino" alt="Como's GitHub Stats Graph"/>
 </a>
 <br><br>
 
-<a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkarda&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
+<a href="https://github.com/llComodino/llComodino">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llComodino&theme=dark" alt="Como's GitHub Streak Stats"/>
 </a>
 <br><br>
 
-<a href="https://github.com/rahulkarda/NFT-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a href="https://github.com/rahulkarda/Wave-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/rahulkarda/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/rahulkarda/NASA-APOD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/rahulkarda/Web-Postman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-<a href="https://github.com/rahulkarda/IP-Address_Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/llComodino/llComodino">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=llComodino&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Como's GitHub Contributions Graph"/>
 </a>
 <br><br>
 
