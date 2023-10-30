@@ -71,7 +71,7 @@
 
 # GitHub Stats 📈
 <a href="https://github.com/llComodino/llComodino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llComodino&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llComodino&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 
 <a href="https://github.com/llComodino/llComodino">
