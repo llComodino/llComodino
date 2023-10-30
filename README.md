@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://github.com/llComodino/llComodino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=llComodino&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Como's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=llComodino&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Como%27s%20Github%20Stats" alt="Como's GitHub Stats" />
 </a>
 <br><br>
 
@@ -89,10 +89,6 @@
 </a>
 <br><br>
 
-<a href="https://github.com/llComodino/llComodino">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=llComodino&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Como's GitHub Contributions Graph"/>
-</a>
-<br><br>
 
 ## Extras 📝
   <details>
