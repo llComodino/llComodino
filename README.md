@@ -33,10 +33,10 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Doggosite (WIP)</h3>
+      <h3 align="center">DoggoPass (WIP)</h3>
         <p align="center">
         <br>
-          <a href="https://github.com/llComodino/Doggosite" target="_blank">
+          <a href="https://github.com/llComodino/DoggoPass" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
           </a>
         </p>
