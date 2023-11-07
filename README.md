@@ -41,7 +41,7 @@
         <br />
         <p align = "center">
             <br>
-        <a href="https://github.com/llComodino/DoggoPass" target="_blank">
+        <a href="https://github.com/llComodino/DogeGuard" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
         </a>
             </p>
