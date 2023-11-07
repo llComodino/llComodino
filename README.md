@@ -34,22 +34,29 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">DoggoPass (WIP)</h3>
-        <p align="center">
-        <br>
-          <a href="https://github.com/llComodino/DoggoPass" target="_blank">
+        <br />
+        <a target="_blank" href="http://doggoguard.doggocorp.net">
+            <img src="images/doggoguard.png" width="100%" alt="Passwd Manager"/>
+        </a>
+        <br />
+        <p align = "center">
+            <br>
+        <a href="https://github.com/llComodino/DoggoPass" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-          </a>
-        </p>
+        </a>
+            </p>
+                <p><strong>Rust</strong> - Passwd Manager : A secure, private, hence self hosted application for managing you passwords and logins!</p>
     </td>
-
-  <td width="50%" valign="top">
-      <h3 align="center">Generics (WIP)</h3>
-        <p align="center">
-          <br>
-            <a href="https://github.com/llComodino/comodino-lab" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-            </a>
-        </p>
+    <td width="50%" valign="top">
+      <h3 align="center">comodino-lab (WIP)</h3>
+        <br />
+        <p align = "center">
+            <br>
+        <a href="https://github.com/llComodino/comodino-lab" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+            </p>
+                <p><strong>Rust, C, C++, PHP</strong> - Learning Projects : Lots of projects that I make while learning new concepts or leanguages </p>
     </td>
   </tr>
   
