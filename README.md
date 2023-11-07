@@ -33,10 +33,10 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">DoggoPass (WIP)</h3>
+      <h3 align="center">DogeGuard (WIP)</h3>
         <br />
-        <a target="_blank" href="http://doggoguard.doggocorp.net">
-            <img src="images/doggoguard.png" width="100%" alt="Passwd Manager"/>
+        <a target="_blank" href="http://dogeguard.doggocorp.net">
+            <img src="images/dogeguard.png" width="100%" alt="Passwd Manager"/>
         </a>
         <br />
         <p align = "center">
