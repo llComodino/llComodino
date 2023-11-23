@@ -50,6 +50,10 @@
     <td width="50%" valign="top">
       <h3 align="center">comodino-lab (WIP)</h3>
         <br />
+        <a target="_blank" href="https://github.com/llComodino/comodino-lab">
+            <img src="images/comodino-lab.png" width="100%" alt="Random Stuff"/>
+        </a>
+        <br />
         <p align = "center">
             <br>
         <a href="https://github.com/llComodino/comodino-lab" target="_blank">
