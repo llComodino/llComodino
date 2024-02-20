@@ -1,6 +1,6 @@
 # Welcome Folks! 
  
- <p align="left">Name's Diego, but you can call me Como
+<p align="left">Name's Diego, but you can call me Como
   
   I'm from Italy, something that most people find cool, but I don't. <br>
   I tend to be pessimistic about anything that concerns myself only, you could call me an embedded systems engineer wannabe <br>
@@ -13,7 +13,7 @@
 </p>
 
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning Typescript
 
 👯 I’m looking to find any meaning in what I'm doing
 
