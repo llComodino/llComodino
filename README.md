@@ -75,7 +75,6 @@
 ![](https://img.shields.io/badge/Code-svelte-informational?style=flat&logo=svelte&logoColor=red&color=brightgreen)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Database-arangodb-informational?style=flat&logo=arangodb&logoColor=yellow&color=brightgreen)
-![](https://img.shields.io/badge/Database-arangodb-informational?style=flat&logo=arangodb&logoColor=yellow&color=brightgreen)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
