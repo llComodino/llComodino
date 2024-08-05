@@ -1,5 +1,6 @@
 <details>
 <summary>If you want to you can look at this mediocre profile</summary>
+<br>
 # Welcome Folks!
 Name's Diego, but you can call me Como
   
@@ -107,4 +108,5 @@ My philosophy: men are not born engineers, nor they want to become one, but in t
     <img src="https://github-profile-trophy.vercel.app/?username=llComodino&theme=onedark&column=3&margin-w=15&margin-h=15" />
     <br>
     <img src="https://metrics.lecoq.io/llComodino?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
+</details>
 </details>
