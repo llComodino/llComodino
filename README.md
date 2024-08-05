@@ -26,7 +26,7 @@ My philosophy: men are not born engineers, nor they want to become one, but in t
 
 
 # Projects ⚙️
-<table bordercolor="#66b2b2">
+<table bordercolor="#75c1d0">
   
   <tr>
     <td width="50%" valign="top">
@@ -45,19 +45,19 @@ My philosophy: men are not born engineers, nor they want to become one, but in t
                 <p><strong>Rust</strong> - Passwd Manager : A secure, private, hence self hosted application for managing you passwords and logins!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">comodino-lab (WIP)</h3>
+      <h3 align="center">cli-party</h3>
         <br />
-        <a target="_blank" href="https://github.com/llComodino/comodino-lab">
-            <img src="images/comodino-lab.png" width="100%" alt="Random Stuff"/>
+        <a target="_blank" href="https://github.com/llComodino/cli-party">
+            <img src="images/cli-party.png" width="100%" alt="Bomb Party Clone for CLI"/>
         </a>
         <br />
         <p align = "center">
             <br>
-        <a href="https://github.com/llComodino/comodino-lab" target="_blank">
+        <a href="https://github.com/llComodino/cli-party" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
         </a>
             </p>
-                <p><strong>Rust, C, C++, PHP</strong> - Learning Projects : Lots of projects that I make while learning new concepts or leanguages </p>
+                <p><strong>Python</strong> - Game : My CLI python clone of the famous Bomb Party (no multiplayer for now) </p>
     </td>
   </tr>
   
